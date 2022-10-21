@@ -1,0 +1,1 @@
+model_checkpoint_path: "/opt/smartQA/algorithm/kg_qa/SIM/model/bert.ckpt-9400"
